@@ -1,0 +1,21 @@
+{
+  "name": "live-draw-sdy-wla",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Live Sydney adalah situs khusus untuk menyiarkan langsung keluaran togel Sdy yang sudah terhubung secara resmi Karena banyak member togel yang mengeluh kesulitan untuk mengakses situs keluaran togel Sydney yang terkena blokir oleh sistem pemerintah di indonesia yakni nawala. Oleh karena itu tim Live Draw SDY kami langsung membuat situs anti nawala yang dapat diakses secara gratis oleh para togelers untuk menyaksikan result SDY tanpa takut terkena internet positif lagi.",
+  "keywords": [
+    "live draw sdy",
+    "live draw sdy hari ini",
+    "live draw sdy wla",
+    "live draw sdy hari ini tercepat 2021",
+    "live draw sdy tercepat",
+    "live draw sdy 6d",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/bungroki88/live-draw-sdy-wla",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
